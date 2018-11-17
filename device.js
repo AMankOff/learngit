@@ -3,8 +3,8 @@
 // Device.js is freely distributable under the MIT license.
 // For all details and documentation:
 // http://matthewhudson.me/projects/device.js/
-//这是一试
-//再加一个测试
+//这是一试是//再加一个测试
+//这是另一个测试
 
 (function() {
 
