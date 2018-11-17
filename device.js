@@ -4,6 +4,7 @@
 // For all details and documentation:
 // http://matthewhudson.me/projects/device.js/
 //这是一个测试
+//再加一个测试
 
 (function() {
 
