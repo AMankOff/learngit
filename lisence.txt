@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-这是一个测试文件  git  这是另一个文件  这是一个新的文件 this is file
+这是一个测试文件  git  这是另一个文件  这是一个新的文件  this is file
 =======
 这是一个测试文件  git  这是另一个文件  这是一个新的文件  this is file 
 >>>>>>> dev
